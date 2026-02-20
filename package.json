@@ -1,0 +1,12 @@
+{
+  "name": "simple-sum",
+  "version": "1.0.0",
+  "description": "A simple npm package that provides a sum function",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "touch /tmp/test"
+  },
+  "keywords": ["sum", "math", "addition", "utility"],
+  "author": "Your Name",
+  "license": "MIT"
+}
